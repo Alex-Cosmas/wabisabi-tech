@@ -1,3 +1,4 @@
 export const EMS = () => {
-  return <div>Akiba</div>
+  return <div>EMS</div>
 }
+export default EMS

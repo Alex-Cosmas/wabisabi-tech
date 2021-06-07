@@ -1,3 +1,4 @@
-export const Resources = () => {
+const Resources = () => {
   return <div>Resources</div>
 }
+export default Resources

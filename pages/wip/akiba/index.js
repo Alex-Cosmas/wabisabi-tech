@@ -1,3 +1,4 @@
-export const Akiba = () => {
+const Akiba = () => {
   return <div>Akiba</div>
 }
+export default Akiba

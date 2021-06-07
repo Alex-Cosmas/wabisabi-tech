@@ -1,3 +1,4 @@
 export const CarYard = () => {
-  return <div>Akiba</div>
+  return <div>CarYard</div>
 }
+export default CarYard
