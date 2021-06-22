@@ -3,6 +3,7 @@ import HeroSection from '../components/wabisabi//global/Hero'
 import WhoWeAre from '../components/wabisabi/WhoWeAre'
 import OurProcess from '~/components/wabisabi/OurProcess'
 import FeaturedProjects from '~/components/wabisabi/FeaturedProjects'
+import ContactUs from '~/components/wabisabi/ContactUs'
 
 const Index = () => (
   <>
@@ -10,9 +11,10 @@ const Index = () => (
     <HeroSection />
     <div className='content-wrapper'>
       <div className='flex flex-col items-center justify-center'>
-        <WhoWeAre />
         <OurProcess />
+        <WhoWeAre />
         <FeaturedProjects />
+        <ContactUs />
       </div>
     </div>
   </>
