@@ -1,35 +1,20 @@
-import Image from 'next/image'
-import HeroSection from './Hero'
+import Header from '../components/wabisabi/global/Header'
+import HeroSection from '../components/wabisabi//global/Hero'
+import WhoWeAre from '../components/wabisabi/WhoWeAre'
+import OurProcess from '~/components/wabisabi/OurProcess'
+import FeaturedProjects from '~/components/wabisabi/FeaturedProjects'
 
 const Index = () => (
-  <div>
-    <section className='container mx-auto'>
-      <div className='flex flex-col sm:flex-row text-white items-center justify-between'>
-        <Image
-          src='/logo/wabisabi/white-logo.svg'
-          alt=''
-          className='object-contain'
-          width={300}
-          height={100}
-        />
-
-        <div className=''>
-          <ul className='flex flex-col sm:flex-row gap-x-6'>
-            <li>Who we are </li>
-            <li> Our Process </li>
-            <li>Featured Projects </li>
-            <li>Rates and Billing </li>
-          </ul>
-        </div>
-
-        <div className='flex gap-x-3'>
-          <div>Contact Us</div>
-          <div>Schedule a Call</div>
-        </div>
-      </div>
-    </section>
-
+  <>
+    <Header />
     <HeroSection />
-  </div>
+    <div className='content-wrapper'>
+      <div className='flex flex-col items-center justify-center'>
+        <WhoWeAre />
+        <OurProcess />
+        <FeaturedProjects />
+      </div>
+    </div>
+  </>
 )
 export default Index
