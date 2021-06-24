@@ -4,7 +4,7 @@ const Featured = () => {
   return (
     <div className='flex flex-col items-center justify-center px-10 py-20 text-center sm:py-32 sm:w-10/12'>
       <h1 className='mb-6 text-4xl font-semibold md:text-5xl md:leading-none'>
-        Featured Projects
+        Featured projects
       </h1>
       <div className='grid gap-y-2'>
         <div className='flex'>

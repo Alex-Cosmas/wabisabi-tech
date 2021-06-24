@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import Link from 'next/link'
 const Header = () => {
   return (
     <section>
@@ -13,16 +14,22 @@ const Header = () => {
 
         <div className=''>
           <ul className='flex flex-col sm:flex-row gap-x-6'>
-            <li>Who we are </li>
-            <li> Our Process </li>
-            <li>Featured Projects </li>
-            <li>Rates and Billing </li>
+            <Link href=''>
+              <a>Our Process</a>
+            </Link>
+            <Link href=''>
+              <a>Who are we?</a>
+            </Link>
+            <Link href=''>
+              <a>Featured Work</a>
+            </Link>
           </ul>
         </div>
 
-        <div className='flex gap-x-3'>
-          <div>Contact Us</div>
-          <div>Schedule a Call</div>
+        <div className='flex items-center gap-x-3'>
+          <button className='px-6 py-2 text-black rounded-sm bg-green'>
+            Get in Touch
+          </button>
         </div>
       </div>
     </section>

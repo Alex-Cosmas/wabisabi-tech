@@ -2,8 +2,7 @@ const WhoWeAre = () => {
   return (
     <div className='flex flex-col items-center justify-center px-10 py-20 text-center sm:py-32 sm:w-10/12'>
       <h1 className='mb-6 text-4xl font-semibold md:text-5xl md:leading-none'>
-        Who we are
-        {/* Scalable solutions built on time and within budget. */}
+        Who are we
       </h1>
       <div>
         <div className='flex justify-center'>
