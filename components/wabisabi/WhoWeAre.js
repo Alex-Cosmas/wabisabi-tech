@@ -14,21 +14,26 @@ const WhoWeAre = () => {
                 The name Wabi Sabi is an accient japenesse philiosphy that
                 embraces simplicity, imperfection and impermance. This ancient
                 Japanesse philosphy summaries the values we hold dear as a
-                businesses and company.
+                businesses and company. Wabi Sabi is hard to duplicate, which
+                makes it uniquely yours.
               </p>
               <p>
-                Wabi Sabi is hard to duplicate, which makes it uniquely yours.
                 We define ourselves as a research design agency that provides
                 end to end solutions. We are fully remote and work with willing
-                and remarkable humans to solve the challenges that the
-                communities face on a day to day basis through design and code.
+                and remarkable humans to solve the challenges that communities
+                face on a day to day basis through design and code.
               </p>
               <p>
+                We provide UX design and support as well as engage in Frontend
+                Developement. We use the most effective and efficient solutions
+                from concept, prototyping, building and serverless deployment.
+              </p>
+              {/* <p>
                 For us, we wanted to build and run a business that allows just
                 that., where all ideas are welcomed and allow the mind to run
                 wild and free because ultimately, we all in one form or another
                 want to be free or happy in whatever form that may be.
-              </p>
+              </p> */}
             </div>
           </div>
         </div>
