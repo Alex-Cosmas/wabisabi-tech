@@ -3,7 +3,7 @@ const ContactUs = () => {
     <section>
       <div className='px-4 py-20 md:px-10 bg-items-center gray-300 md:py-32 '>
         <div className='flex flex-col items-center'>
-          <h1 className='mb-6 text-4xl font-semibold md:text-5xl md:leading-none'>
+          <h1 className='mb-6 text-4xl font-semibold tracking-tight text-center md:text-5xl md:leading-none'>
             How can we help you?
           </h1>
 
