@@ -1,1 +1,16 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 148.5"><defs><style>.cls-1{font-size:119.03px;fill:#101236;font-family:Montserrat-Medium, Montserrat;font-weight:500;}.cls-2{letter-spacing:-0.02em;}.cls-3{letter-spacing:0em;}.cls-4{fill:#2d9e48;}.cls-5{letter-spacing:-0.02em;}.cls-6{letter-spacing:-0.01em;}.cls-7{letter-spacing:0em;}.cls-8{letter-spacing:0.02em;}.cls-9{letter-spacing:0.02em;}</style></defs><title>logo-color</title><text class="cls-1" transform="translate(17.25 113.34)"><tspan class="cls-2">w</tspan><tspan class="cls-3" x="104.98" y="0">abi</tspan><tspan class="cls-4" x="290.54" y="0">sabi</tspan></text><text class="cls-1" transform="translate(604.05 114.98)"><tspan class="cls-5">t</tspan><tspan x="47.13" y="0">e</tspan><tspan class="cls-6" x="119.98" y="0">c</tspan><tspan class="cls-7" x="187.11" y="0">h</tspan><tspan class="cls-8" x="268.17" y="0">n</tspan><tspan class="cls-9" x="351.96" y="0">o</tspan></text><text class="cls-1" transform="translate(1036.99 114.98)">logies.</text></svg>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 148.5">
+  <defs>
+    <style>
+      .cls-1{font-size:119.03px;fill:#101236;font-family:Montserrat-Medium,Montserrat;font-weight:500}
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(17.25 113.34)">
+    <tspan letter-spacing="-.02em">w</tspan><tspan x="104.98" y="0" letter-spacing="0">abi</tspan><tspan x="290.54" y="0" fill="#2d9e48">sabi</tspan>
+  </text>
+  <text class="cls-1" transform="translate(604.05 114.98)">
+    <tspan letter-spacing="-.02em">t</tspan><tspan x="47.13" y="0">e</tspan><tspan x="119.98" y="0" letter-spacing="-.01em">c</tspan><tspan x="187.11" y="0" letter-spacing="0">h</tspan><tspan x="268.17" y="0" letter-spacing=".02em">n</tspan><tspan x="351.96" y="0" letter-spacing=".02em">o</tspan>
+  </text>
+  <text class="cls-1" transform="translate(1036.99 114.98)">
+    logies.
+  </text>
+</svg>

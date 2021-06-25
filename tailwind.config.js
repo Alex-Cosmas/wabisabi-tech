@@ -49,10 +49,19 @@ module.exports = {
       screens: {
         wrap: '1236px',
       },
+      aspectRatio: {
+        1: '1',
+        2: '2',
+        3: '3',
+        4: '4',
+      },
     },
   },
   variants: {
     extend: {},
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/aspect-ratio'),
+    // ...
+  ],
 }

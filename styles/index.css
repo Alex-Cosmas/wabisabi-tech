@@ -19,4 +19,11 @@
   .unset-img > div {
     position: unset !important;
   }
+
+  .responsive__logo__h {
+    width: calc(177.77777777778% / 9);
+  }
+  .responsive__logo__w {
+    width: calc(177.77777777778% / 16);
+  }
 }
